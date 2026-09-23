@@ -1,0 +1,15 @@
+Roadmap for DE:
+============
+Linux
+|
+Git/GitHub
+|
+SQL
+|
+Python
+|
+BigData - Hadoop, Spark
+|
+Cloud- Azure, AWS
+|
+Airflow - To schedule jobs
